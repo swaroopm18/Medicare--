@@ -1,0 +1,72 @@
+[
+  {
+    "drug_a": "paracetamol",
+    "drug_b": "ibuprofen",
+    "severity": "mild",
+    "summary": "Paracetamol and ibuprofen act through different mechanisms and are commonly co-administered for stronger pain relief.",
+    "recommendation": "Generally safe to alternate or combine at recommended doses, but confirm timing/dosage with a doctor or pharmacist, especially for children or long-term use."
+  },
+  {
+    "drug_a": "ibuprofen",
+    "drug_b": "aspirin",
+    "severity": "moderate",
+    "summary": "Both are NSAIDs; combined use increases risk of stomach bleeding and ulcers, and ibuprofen may blunt aspirin's cardioprotective effect.",
+    "recommendation": "Avoid routine combination. If low-dose aspirin is prescribed for the heart, take it well before ibuprofen and consult a doctor."
+  },
+  {
+    "drug_a": "ibuprofen",
+    "drug_b": "warfarin",
+    "severity": "severe",
+    "summary": "NSAIDs like ibuprofen significantly increase bleeding risk when combined with anticoagulants such as warfarin.",
+    "recommendation": "Avoid this combination unless specifically directed and monitored by a physician."
+  },
+  {
+    "drug_a": "aspirin",
+    "drug_b": "warfarin",
+    "severity": "severe",
+    "summary": "Combining aspirin with warfarin substantially raises the risk of serious bleeding.",
+    "recommendation": "Only use together under close medical supervision with regular INR monitoring."
+  },
+  {
+    "drug_a": "amoxicillin",
+    "drug_b": "warfarin",
+    "severity": "moderate",
+    "summary": "Amoxicillin can enhance the blood-thinning effect of warfarin, increasing bleeding risk.",
+    "recommendation": "INR should be monitored more closely if these are combined; consult the prescribing doctor."
+  },
+  {
+    "drug_a": "omeprazole",
+    "drug_b": "atorvastatin",
+    "severity": "mild",
+    "summary": "Omeprazole may slightly alter statin metabolism, but clinically significant interaction is uncommon at typical doses.",
+    "recommendation": "Usually fine to combine; monitor for unusual muscle pain and mention both medicines to your doctor."
+  },
+  {
+    "drug_a": "metformin",
+    "drug_b": "insulin",
+    "severity": "mild",
+    "summary": "Commonly combined in type 2 diabetes management; increases the risk of low blood sugar (hypoglycemia).",
+    "recommendation": "Monitor blood glucose closely, especially when starting or adjusting either medication."
+  },
+  {
+    "drug_a": "azithromycin",
+    "drug_b": "atorvastatin",
+    "severity": "mild",
+    "summary": "Rare reports of increased statin-related muscle effects when combined with macrolide antibiotics.",
+    "recommendation": "Short-course azithromycin with atorvastatin is usually fine; report unusual muscle pain."
+  },
+  {
+    "drug_a": "cetirizine",
+    "drug_b": "paracetamol",
+    "severity": "none",
+    "summary": "No clinically meaningful interaction between cetirizine and paracetamol.",
+    "recommendation": "Safe to use together at recommended doses."
+  },
+  {
+    "drug_a": "amlodipine",
+    "drug_b": "ibuprofen",
+    "severity": "mild",
+    "summary": "NSAIDs like ibuprofen can reduce the blood-pressure-lowering effect of amlodipine and affect kidney function with prolonged use.",
+    "recommendation": "Occasional use is usually fine; avoid prolonged daily NSAID use without medical advice if you take blood pressure medication."
+  }
+]
